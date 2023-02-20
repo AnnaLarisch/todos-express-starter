@@ -14,7 +14,7 @@
   },
   "license": "Unlicense",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/serverIndex.js"
   },
   "dependencies": {
     "connect-sqlite": "^0.0.1",
