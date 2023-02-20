@@ -1,7 +1,7 @@
 {
   "name": "cpt_website",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "description": "Website of my Master Thesis Poject",
   "keywords": [
     "example",
